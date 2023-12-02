@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deeplearning 
 - 🌱 I’m currently learning Python and C++ 
 - 💞️ I’m looking to collaborate on AI project on Kaggle.
-- 📫 How to reach me mohajeri@duck.com
+- 📫 How to reach me nmohajeri@gmail.com
 
 <!---
 NaghmeM/NaghmeM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
