@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaghmeM
+- 👋 Hi, I’m @Najmeh
 - 👀 I’m interested in Deeplearning 
 - 🌱 I’m currently learning Python and C++ 
 - 💞️ I’m looking to collaborate on AI project on Kaggle.
