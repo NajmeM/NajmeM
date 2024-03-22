@@ -11,7 +11,6 @@
 ###
 
 <div align="left">
-  <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Black.svg?hsLang=en-us" height="30" alt="Ansible logo"  />
   <img width="12" />
